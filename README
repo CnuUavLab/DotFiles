@@ -2,7 +2,7 @@ A place for us to stor all the .files to make our user environment usable.
 
 Instructions for setup:
 1: git config:
-    git config --global user.name 'Name here - Location here'
+    git config --global user.name 'Name here'
     # Sets the default name for git to use when you commit
     git config --global user.email "your_email@example.com"
     # Sets the default email for git to use when you commit
